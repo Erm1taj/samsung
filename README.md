@@ -25,3 +25,5 @@
 [2.1 Восстановление зависимости нейронной сетью просмотр попытки](https://erm1taj.github.io/samsung/module2/2.1.pdf)  
 [2.2 Компоненты нейронной сети просмотр попытки](https://erm1taj.github.io/samsung/module2/2.2.pdf)  
 [2.3 Алгоритм настройки нейронной сети просмотр попытки](https://erm1taj.github.io/samsung/module2/2.3.pdf)  
+
+![alt text](https://media.discordapp.net/attachments/283738539504566272/818334863588327444/image0.gif)
