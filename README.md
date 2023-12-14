@@ -1,1 +1,1 @@
-# samsung
+# Ответы на тесты по Samsung
