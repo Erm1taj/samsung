@@ -1,10 +1,10 @@
 ## Модуль 1
 [1.1 Базовые элементы языка Python](https://erm1taj.github.io/samsung/module1/1.1.pdf)  
 [1.2 Библиотека Numpy](https://erm1taj.github.io/samsung/module1/1.2.pdf)  
-[1.3 Библиотеки Pandas и Matplotlib](https://erm1taj.github.io/samsung/module1/1.3.pdf) 
-[1.4 Элементы теории вероятностей и математической статистики](https://erm1taj.github.io/samsung/module1/1.4.pdf)   
+[1.3 Библиотеки Pandas и Matplotlib](https://erm1taj.github.io/samsung/module1/1.3.pdf)  
+[1.4 Элементы теории вероятностей и математической статистики](https://erm1taj.github.io/samsung/module1/1.4.pdf)  
   
-    
+  
 [2.1 Градиентный спуск](https://erm1taj.github.io/samsung/module1/2.1.pdf)  
 [2.2 Линейная регрессия](https://erm1taj.github.io/samsung/module1/2.2.pdf)  
 [2.3 Семинар. Критическая температура сверхпроводника](https://erm1taj.github.io/samsung/module1/2.3/predict.csv)  
