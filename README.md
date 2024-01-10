@@ -35,15 +35,15 @@
 
 [4.1 Самый обычный градиентный спуск](https://erm1taj.github.io/samsung/module2/4.1.pdf)  
 [4.2 Модификации градиентного спуска](https://erm1taj.github.io/samsung/module2/4.2.pdf)  
-[4.4 Семинар_ Классификация рукописных чисел полносвязанной сетью](https://erm1taj.github.io/samsung/module2/4.4.pdf)  
+[4.4 Семинар Классификация рукописных чисел полносвязанной сетью](https://erm1taj.github.io/samsung/module2/4.4.pdf)  
   
 [5.1 Свёртка, каскад свёрток](https://erm1taj.github.io/samsung/module2/5.1.pdf)  
-[5.3 Собери их все_ архитектура LeNet (1998)](https://erm1taj.github.io/samsung/module2/5.3.pdf)  
-[5.4 Собери их все_ AlexNet (2012) и VGG (2014)](https://erm1taj.github.io/samsung/module2/5.4.pdf)  
-[5.5 Собери их все_ GoogLeNet и ResNet (2015)](https://erm1taj.github.io/samsung/module2/5.5.pdf)  
-[5.6 Семинар_ Распознавание рукописных чисел свёрточной нейросетью](https://erm1taj.github.io/samsung/module2/5.6.pdf)  
+[5.3 Собери их все архитектура LeNet (1998)](https://erm1taj.github.io/samsung/module2/5.3.pdf)  
+[5.4 Собери их все AlexNet (2012) и VGG (2014)](https://erm1taj.github.io/samsung/module2/5.4.pdf)  
+[5.5 Собери их все GoogLeNet и ResNet (2015)](https://erm1taj.github.io/samsung/module2/5.5.pdf)  
+[5.6 Семинар Распознавание рукописных чисел свёрточной нейросетью](https://erm1taj.github.io/samsung/module2/5.6.pdf)  
   
 [6.1 Ударим дропаутом по переобучению!](https://erm1taj.github.io/samsung/module2/6.1.pdf)  
-[6.2 И целой вечности мало_ Батч-нормализация!](https://erm1taj.github.io/samsung/module2/6.2.pdf)  
+[6.2 И целой вечности мало Батч-нормализация!](https://erm1taj.github.io/samsung/module2/6.2.pdf)  
   
 ![alt text](https://media.discordapp.net/attachments/283738539504566272/818334863588327444/image0.gif)
