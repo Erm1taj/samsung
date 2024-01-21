@@ -47,20 +47,20 @@
 [6.2 И целой вечности мало Батч-нормализация!](https://erm1taj.github.io/samsung/module2/6.2.pdf)  
   
 ## Модуль 3
-[1.2 В общих чертах естественный язык и текст](https://erm1taj.github.io/samsung/module2/1.2.pdf)  
-[1.3 Особенности обработки естественных языков](https://erm1taj.github.io/samsung/module2/1.3.pdf)  
-[1.4 В общих чертах Лингвистический анализ](https://erm1taj.github.io/samsung/module2/1.4.pdf)  
-[1.5 В общих чертах Извлечение признаков](https://erm1taj.github.io/samsung/module2/1.5.pdf)  
-[1.6 Прикладные задачи обработки текста и итоги](https://erm1taj.github.io/samsung/module2/1.6.pdf)  
+[1.2 В общих чертах естественный язык и текст](https://erm1taj.github.io/samsung/module3/1.2.pdf)  
+[1.3 Особенности обработки естественных языков](https://erm1taj.github.io/samsung/module3/1.3.pdf)  
+[1.4 В общих чертах Лингвистический анализ](https://erm1taj.github.io/samsung/module3/1.4.pdf)  
+[1.5 В общих чертах Извлечение признаков](https://erm1taj.github.io/samsung/module3/1.5.pdf)  
+[1.6 Прикладные задачи обработки текста и итоги](https://erm1taj.github.io/samsung/module3/1.6.pdf)  
   
-[2.1 Векторная модель текста и TF-IDF](https://erm1taj.github.io/samsung/module2/2.1.pdf)  
-[2.2 Создаём нейросеть для работы с текстом](https://erm1taj.github.io/samsung/module2/2.2.pdf)  
-[2.3 Задачи по теме Векторная модель текста](https://erm1taj.github.io/samsung/module2/2.3.pdf)  
+[2.1 Векторная модель текста и TF-IDF](https://erm1taj.github.io/samsung/module3/2.1.pdf)  
+[2.2 Создаём нейросеть для работы с текстом](https://erm1taj.github.io/samsung/module3/2.2.pdf)  
+[2.3 Задачи по теме Векторная модель текста](https://erm1taj.github.io/samsung/module3/2.3.pdf)  
   
-[3.1 Общий алгоритм работы с текстами с помощью нейросетей](https://erm1taj.github.io/samsung/module2/3.1.pdf)  
-[3.2 Дистрибутивная семантика и векторные представления слов](https://erm1taj.github.io/samsung/module2/3.2.pdf)  
-[3.3 Семинар рецепты еды и Word2Vec на PyTorch](https://erm1taj.github.io/samsung/module2/3.3.pdf)  
-[3.5 Основные виды нейросетевых моделей для обработки текстов](https://erm1taj.github.io/samsung/module2/3.5.pdf)  
-[3.7 Семинар POS-тэггинг свёрточными нейросетями](https://erm1taj.github.io/samsung/module2/3.7.pdf)  
+[3.1 Общий алгоритм работы с текстами с помощью нейросетей](https://erm1taj.github.io/samsung/module3/3.1.pdf)  
+[3.2 Дистрибутивная семантика и векторные представления слов](https://erm1taj.github.io/samsung/module3/3.2.pdf)  
+[3.3 Семинар рецепты еды и Word2Vec на PyTorch](https://erm1taj.github.io/samsung/module3/3.3.pdf)  
+[3.5 Основные виды нейросетевых моделей для обработки текстов](https://erm1taj.github.io/samsung/module3/3.5.pdf)  
+[3.7 Семинар POS-тэггинг свёрточными нейросетями](https://erm1taj.github.io/samsung/module3/3.7.pdf)  
   
 ![alt text](https://media.discordapp.net/attachments/283738539504566272/818334863588327444/image0.gif)
