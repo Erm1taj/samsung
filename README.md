@@ -39,7 +39,8 @@
 [4.4 Семинар. Классификация рукописных чисел полносвязанной сетью](https://erm1taj.github.io/samsung/module2/4.4.pdf)  
   
 [5.1 Свёртка, каскад свёрток](https://erm1taj.github.io/samsung/module2/5.1.pdf)  
-[5.2 Семинар. Реализация сверточного слоя *](https://erm1taj.github.io/samsung/module2/5.2.pdf)  
+[5.2 Семинар. Реализация сверточного слоя *](https://erm1taj.github.io/samsung/module2/5.2.pdf) 
+[4 задание 5.2](https://erm1taj.github.io/samsung/module2/5.2.4.py)
 [5.3 Собери их все архитектура LeNet (1998)](https://erm1taj.github.io/samsung/module2/5.3.pdf)  
 [5.4 Собери их все AlexNet (2012) и VGG (2014)](https://erm1taj.github.io/samsung/module2/5.4.pdf)  
 [5.5 Собери их все GoogLeNet и ResNet (2015)](https://erm1taj.github.io/samsung/module2/5.5.pdf)  
