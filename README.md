@@ -73,4 +73,4 @@
 [3.6 Свёрточные нейросети для обработки текстов *](https://erm1taj.github.io/samsung/module3/3.6.pdf)  
 [3.7 Семинар. POS-тэггинг свёрточными нейросетями](https://erm1taj.github.io/samsung/module3/3.7.pdf)  
   
-![alt text](https://media.discordapp.net/attachments/283738539504566272/818334863588327444/image0.gif)
+![alt text](https://erm1taj.github.io/samsung/cats.gif)
