@@ -73,4 +73,20 @@
 [3.6 Свёрточные нейросети для обработки текстов *](https://erm1taj.github.io/samsung/module3/3.6.pdf)  
 [3.7 Семинар. POS-тэггинг свёрточными нейросетями](https://erm1taj.github.io/samsung/module3/3.7.pdf)  
   
+[4.1 Рекуррентные нейросети](https://erm1taj.github.io/samsung/module3/4.1.pdf)  
+[4.2 Моделирование языка](https://erm1taj.github.io/samsung/module3/4.2.pdf)  
+[4.3 Семинар Генерация имён и лозунгов с помощью RNN](https://erm1taj.github.io/samsung/module3/4.3.pdf)  
+[4.5 Трансформер и self-attention](https://erm1taj.github.io/samsung/module3/4.5.pdf)  
+[4.6 Семинар Моделирование языка с помощью Transformer](https://erm1taj.github.io/samsung/module3/4.6.pdf)  
+[4.7 Вопросы по теме Модель языка и трансформеры](https://erm1taj.github.io/samsung/module3/4.7.pdf) 
+  
+[5.1 Распознавание плоской структуры коротких текстов](https://erm1taj.github.io/samsung/module3/5.1.pdf)  
+[5.2 Семинар Распознавание структуры рецептов](https://erm1taj.github.io/samsung/module3/5.2.pdf)  
+[5.3 Семинар Пспектный сентимент-анализ как NER](https://erm1taj.github.io/samsung/module3/5.3.pdf)  
+[5.4 Преобразование последовательностей (seq2seq)](https://erm1taj.github.io/samsung/module3/5.4.pdf)  
+[5.5 Семинар Генерация кода со Stack Overflow](https://erm1taj.github.io/samsung/module3/5.5.pdf)  
+[5.6 Вопросы по теме Преобразование последовательностей](https://erm1taj.github.io/samsung/module3/5.6.pdf)  
+  
+[6.1 Контекстуализированные представления и перенос знаний](https://erm1taj.github.io/samsung/module3/6.1.pdf) 
+  
 ![alt text](https://erm1taj.github.io/samsung/cats.gif)
